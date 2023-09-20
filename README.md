@@ -10,11 +10,9 @@ Train incidents with animals and even humans have gotten more attention in the p
 
 ![image](https://github.com/Istiak-Mahmud/Wildlife-protection-on-train-line-using-Mask-RCNN/blob/main/block%20diagram.png)
 
-![ezgif com-video-to-gif](https://github.com/Istiak-Mahmud/Wildlife-protection-on-train-line-using-Mask-RCNN/assets/63910470/2d9dc6ae-ec84-4b34-8b0b-819fee316239)
-
 # Keywords:
 
 Train accidents, object detection, automated solution, mask R-CNN algorithm, railway
 traffic dataset.
 
-
+![ezgif com-video-to-gif](https://github.com/Istiak-Mahmud/Wildlife-protection-on-train-line-using-Mask-RCNN/assets/63910470/2d9dc6ae-ec84-4b34-8b0b-819fee316239)
